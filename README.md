@@ -1,7 +1,7 @@
 # IndexCalculusMethod
 Solve a discrete logarithm problem using the index calculus method
 
-###Description
+### Description
 Solve a discrete logarithm problem (β = αa mod p) using the index calculus method. The task is to find a knowing the value of β.
 You will use p = 10930889, and perform calculations to the subgroup formed by α = 2317547. This subgroup has order 59407. Please notice that this makes it easy to solve the problem without using the index calculus method.
 β = 9791436 ;
